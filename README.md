@@ -18,8 +18,11 @@ Step two: Create a virtual network(IP Address)
 - Configure IP Address
 <img width="1365" height="577" alt="Screenshot 2026-02-16 172614" src="https://github.com/user-attachments/assets/67c2638d-0161-4a36-9bff-3736a567446a" />
 
-- Add Subnet
+- Add Subnet for frontend
 <img width="1126" height="514" alt="Screenshot 2026-02-16 172748" src="https://github.com/user-attachments/assets/8190dc69-4e85-4b26-9eb5-9fbcaf90f589" />
+
+- Add Subnet for backend
+<img width="1134" height="555" alt="Screenshot 2026-02-23 172659" src="https://github.com/user-attachments/assets/2590285c-8963-4b50-8cba-a69ee14577fe" />
 
 - Review configuration
 <img width="1363" height="575" alt="Screenshot 2026-02-16 172951" src="https://github.com/user-attachments/assets/2db02415-fac0-47a2-a50d-6aaf59ecf4af" />
