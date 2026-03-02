@@ -58,7 +58,7 @@ Step three(Review): Create a Virtual Machine Scale Set
 Virtual Machine Scale Sets deployed
 <img width="1032" height="425" alt="Screenshot 2026-02-23 201858" src="https://github.com/user-attachments/assets/b7d4ec1c-22b7-4e44-8527-2bc9db664092" />
 
-Step four Configure Network Security Group(NSG)
+Step four: Configure Network Security Group(NSG)
 - Open the newly deployed Virtual Machine Scale Set
 <img width="1320" height="604" alt="Screenshot 2026-03-02 163939" src="https://github.com/user-attachments/assets/c58b598e-c42b-421b-ab4c-491ccd85ebb6" />
 
@@ -71,6 +71,8 @@ Step four Configure Network Security Group(NSG)
 
 - Configure the Network Security Group(NSG) Outbound rule
 <img width="1330" height="612" alt="Screenshot 2026-03-02 164912" src="https://github.com/user-attachments/assets/dcbbbdec-ea17-4e4a-af44-98d4ac082478" />
+
+Step five: Enable Just-in-Time (JIT) VM access
 
 
 
