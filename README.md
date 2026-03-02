@@ -55,7 +55,24 @@ Step three(Management): Create a Virtual Machine Scale Set
 Step three(Review): Create a Virtual Machine Scale Set
 - Review Configuration and create
 <img width="1318" height="556" alt="Screenshot 2026-02-23 201311" src="https://github.com/user-attachments/assets/671e5034-e15c-4716-ad8f-89a909ac2957" />
-First Virtual Machine Scale Set deployed
+Virtual Machine Scale Sets deployed
 <img width="1032" height="425" alt="Screenshot 2026-02-23 201858" src="https://github.com/user-attachments/assets/b7d4ec1c-22b7-4e44-8527-2bc9db664092" />
+
+Step four Configure Network Security Group(NSG)
+- Open the newly deployed Virtual Machine Scale Set
+<img width="1320" height="604" alt="Screenshot 2026-03-02 163939" src="https://github.com/user-attachments/assets/c58b598e-c42b-421b-ab4c-491ccd85ebb6" />
+
+- From the side menu, navigate to "Networking" submenu
+- Then click the "Network Settings" option
+<img width="1319" height="613" alt="Screenshot 2026-03-02 164308" src="https://github.com/user-attachments/assets/0077562a-916d-4278-846f-db3e956b3257" />
+
+- Configure the Network Security Group(NSG) Inbound rule
+<img width="1330" height="607" alt="Screenshot 2026-03-02 164717" src="https://github.com/user-attachments/assets/cc55a733-6e03-4cfd-bc7d-595993147fbf" />
+
+- Configure the Network Security Group(NSG) Outbound rule
+<img width="1330" height="612" alt="Screenshot 2026-03-02 164912" src="https://github.com/user-attachments/assets/dcbbbdec-ea17-4e4a-af44-98d4ac082478" />
+
+
+
 
 
