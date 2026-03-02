@@ -49,6 +49,8 @@ Step three(Management): Create a Virtual Machine Scale Set
 - Enable Boot diagnostics
 <img width="1318" height="559" alt="Screenshot 2026-02-23 201027" src="https://github.com/user-attachments/assets/eb9afc7a-6030-41fe-a367-e3c8c6668ae1" />
 
+- Configure Application Health Monitor
+<img width="1340" height="569" alt="Screenshot 2026-03-02 161516" src="https://github.com/user-attachments/assets/ad6fd624-79a5-4e8e-9943-77eff56d3d10" />
 
 Step three(Review): Create a Virtual Machine Scale Set
 - Review Configuration and create
