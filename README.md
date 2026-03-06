@@ -132,6 +132,10 @@ Step 6: Backup & Disaster Recovery
 <img width="1341" height="614" alt="Screenshot 2026-03-06 201801" src="https://github.com/user-attachments/assets/c8933b7a-5260-4f53-b82b-c32e47ef3391" />
 - Click Azure Virtual Machine
 <img width="1334" height="572" alt="Screenshot 2026-03-06 201855" src="https://github.com/user-attachments/assets/68f26654-6555-4faa-a58b-fb9c1220d0ca" />
+- Open context menu(...), select Backup Now
+<img width="1324" height="604" alt="Screenshot 2026-03-06 203512" src="https://github.com/user-attachments/assets/26677a63-1663-454c-816d-06a8d73045f0" />
+- Select backup date
+<img width="1244" height="567" alt="Screenshot 2026-03-06 203709" src="https://github.com/user-attachments/assets/e007eee5-3e74-4236-a10b-ed9fc1bf6457" />
 
 Step 7: Set up Azure Site Recovery for failover
 
