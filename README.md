@@ -138,10 +138,18 @@ Step 6: Backup & Disaster Recovery
 <img width="1244" height="567" alt="Screenshot 2026-03-06 203709" src="https://github.com/user-attachments/assets/e007eee5-3e74-4236-a10b-ed9fc1bf6457" />
 
 Step 7: Set up Azure Site Recovery for failover
-
-
-
-
+- Go to the Resource Group
+- Open the VMSS
+<img width="1340" height="617" alt="Screenshot 2026-03-06 205813" src="https://github.com/user-attachments/assets/06954850-bb35-4c9c-9fd2-a7d711ab7a21" />
+- Click "Backup + disaster recovery", then click "Disaster recovery"
+<img width="1325" height="614" alt="Screenshot 2026-03-06 210348" src="https://github.com/user-attachments/assets/66887900-b325-4c40-8fcc-095728adf066" />
+- Configure Disaster Recovery(Basics)
+<img width="1321" height="540" alt="Screenshot 2026-03-06 210806" src="https://github.com/user-attachments/assets/d24fff0e-f5b8-4f98-9318-a3067b206175" />
+- Configure Disaster Recovery(Advanced)
+<img width="1323" height="611" alt="Screenshot 2026-03-06 210948" src="https://github.com/user-attachments/assets/9706f994-e2de-43d7-a69f-631d0692c115" />
+- Configure Disaster Recovery(Review + Start replication)
+<img width="1325" height="507" alt="Screenshot 2026-03-06 211459" src="https://github.com/user-attachments/assets/e638deae-1157-4408-adc9-c861b0241d15" />
+<img width="1322" height="557" alt="Screenshot 2026-03-06 211534" src="https://github.com/user-attachments/assets/a58a951f-bbc0-4d75-a49a-ca0b9eb98d93" />
 
 
 
