@@ -73,8 +73,28 @@ Step four: Configure Network Security Group(NSG)
 <img width="1330" height="612" alt="Screenshot 2026-03-02 164912" src="https://github.com/user-attachments/assets/dcbbbdec-ea17-4e4a-af44-98d4ac082478" />
 
 Step five: Enable Just-in-Time (JIT) VM access
+- Launch Microsoft Defender for Cloud service
+<img width="1319" height="627" alt="Screenshot 2026-03-06 161218" src="https://github.com/user-attachments/assets/ecd1ed64-1329-4676-8992-904caaae79b3" />
 
+- Navigate to "Environment Settings" in the "Management" submenu
+<img width="1317" height="603" alt="Screenshot 2026-03-06 160853" src="https://github.com/user-attachments/assets/f9b3dcb7-4e9f-4319-b0d3-d88c42d1411e" />
 
+- Select Subscription and turn on server protection
+<img width="1324" height="620" alt="Screenshot 2026-03-06 161353" src="https://github.com/user-attachments/assets/c4b7c073-23a1-41d5-ab0b-3b5677e50f9c" />
 
+- Navigate to the Virtual Machine Scale Sets
+- Click on "Configuration" submenu in the "Settings"
+- Enable Just-In-Time VM Access
+ <img width="1324" height="610" alt="Screenshot 2026-03-06 161846" src="https://github.com/user-attachments/assets/c7125b11-f877-43d9-89f2-3a4e953de5e9" />
 
+ - Go back to Microsoft Defender for Cloud
+<img width="1343" height="620" alt="Screenshot 2026-03-06 162406" src="https://github.com/user-attachments/assets/a98f6de5-8e7c-46e2-bc13-43cd24bc4999" />
 
+- Configure JIT VM Access
+<img width="1332" height="626" alt="Screenshot 2026-03-06 162706" src="https://github.com/user-attachments/assets/684c1a31-7119-4742-8810-8e76c4c734f6" />
+
+- Navigate to VMSS to request connection with JIT VM Access
+<img width="1318" height="624" alt="Screenshot 2026-03-06 163142" src="https://github.com/user-attachments/assets/7a4232c1-528f-435d-a742-2f750e8b966c" />
+
+- Navigate to the Network Security Group, to check if JIT Access NSG rule has been created
+<img width="1322" height="612" alt="Screenshot 2026-03-06 163600" src="https://github.com/user-attachments/assets/9f67edb0-4e1c-435b-82cc-9a71808d1041" />
