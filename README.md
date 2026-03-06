@@ -100,4 +100,45 @@ Step 5: Enable Just-in-Time (JIT) VM access
 <img width="1322" height="612" alt="Screenshot 2026-03-06 163600" src="https://github.com/user-attachments/assets/9f67edb0-4e1c-435b-82cc-9a71808d1041" />
 
 Step 6: Backup & Disaster Recovery
-- Create a Recovery Services Vault
+- Open the Recovery Services Vault service
+- Create a Recovery Services Vault(Basics)
+<img width="1325" height="560" alt="Screenshot 2026-03-06 193321" src="https://github.com/user-attachments/assets/7d63b791-aa9f-459a-b977-40192947ed68" />
+- Create a Recovery Services Vault(Redundancy)
+<img width="1272" height="565" alt="Screenshot 2026-03-06 193528" src="https://github.com/user-attachments/assets/6a0ec78a-30bb-46d9-9bf9-1bba28cf2df7" />
+- Create a Recovery Services Vault(Encryption)
+<img width="1324" height="576" alt="Screenshot 2026-03-06 193631" src="https://github.com/user-attachments/assets/4c1ca8c0-3551-49b5-9493-ce8213c2f3dc" />
+- Create a Recovery Services Vault(Vault Properties)
+<img width="1306" height="559" alt="Screenshot 2026-03-06 193819" src="https://github.com/user-attachments/assets/af6c470d-8410-4c4c-96e5-3b76caaa1232" />
+- Create a Recovery Services Vault(Networking)
+<img width="1301" height="570" alt="Screenshot 2026-03-06 193910" src="https://github.com/user-attachments/assets/0c155569-fe7b-463c-9b95-7e62a10b4779" />
+- Create a Recovery Services Vault(Review and create)
+<img width="1317" height="561" alt="Screenshot 2026-03-06 194017" src="https://github.com/user-attachments/assets/bb1dcb31-26a6-4c50-9149-3a5813c37bcb" />
+- Recovery Services Vault created
+<img width="1031" height="619" alt="Screenshot 2026-03-06 194529" src="https://github.com/user-attachments/assets/4987ff0b-ed5c-4a20-9a72-e6aa8302618b" />
+- Go to newly created Recovery Services Vault resource
+<img width="1321" height="631" alt="Screenshot 2026-03-06 194744" src="https://github.com/user-attachments/assets/8d2cfcce-35c7-45e0-852c-d491b48d6172" />
+- Click Backup to configure
+<img width="1327" height="598" alt="Screenshot 2026-03-06 200038" src="https://github.com/user-attachments/assets/77dcb30f-65ca-4220-832f-380ab7aba6fc" />
+- Configure Backup Policy
+<img width="1315" height="560" alt="Screenshot 2026-03-06 200301" src="https://github.com/user-attachments/assets/cd66d4c3-6c4c-4f96-9ea4-b364c2f42d5c" />
+- Configure Backup frequency and retention
+ <img width="1317" height="565" alt="Screenshot 2026-03-06 202300" src="https://github.com/user-attachments/assets/ad95e7c3-64a0-4f63-944d-6469bdd143f3" />
+- Click Add to choose the Virtual Machine to bakup
+<img width="1335" height="559" alt="Screenshot 2026-03-06 200633" src="https://github.com/user-attachments/assets/7ceadae3-6eba-463e-bd85-6b1a5f4d7ad1" />
+- Backup complete
+<img width="1030" height="638" alt="Screenshot 2026-03-06 201337" src="https://github.com/user-attachments/assets/f67c77c4-f1b0-47b8-9cb9-8d3120800132" />
+- To confirm the Virtual Machine has been backed up
+- Go to resource, on the menu expand "Protected Items" then click "Backup Items"
+<img width="1341" height="614" alt="Screenshot 2026-03-06 201801" src="https://github.com/user-attachments/assets/c8933b7a-5260-4f53-b82b-c32e47ef3391" />
+- Click Azure Virtual Machine
+<img width="1334" height="572" alt="Screenshot 2026-03-06 201855" src="https://github.com/user-attachments/assets/68f26654-6555-4faa-a58b-fb9c1220d0ca" />
+
+Step 7: Set up Azure Site Recovery for failover
+
+
+
+
+
+
+
+
