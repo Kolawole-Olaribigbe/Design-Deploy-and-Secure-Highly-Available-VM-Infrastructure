@@ -139,7 +139,7 @@ Step 6: Backup & Disaster Recovery
 
 Step 7: Set up Azure Site Recovery for failover
 - Go to the Resource Group
-- Open the VMSS
+- Open the Virtual Machine Scale Set
 <img width="1340" height="617" alt="Screenshot 2026-03-06 205813" src="https://github.com/user-attachments/assets/06954850-bb35-4c9c-9fd2-a7d711ab7a21" />
 - Click "Backup + disaster recovery", then click "Disaster recovery"
 <img width="1325" height="614" alt="Screenshot 2026-03-06 210348" src="https://github.com/user-attachments/assets/66887900-b325-4c40-8fcc-095728adf066" />
