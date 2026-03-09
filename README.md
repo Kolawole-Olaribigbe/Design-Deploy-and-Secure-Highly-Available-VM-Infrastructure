@@ -156,6 +156,8 @@ Step 7: Set up Azure Site Recovery for failover
 <img width="1317" height="613" alt="Screenshot 2026-03-09 183406" src="https://github.com/user-attachments/assets/5b93aff1-28fb-4c7c-a07d-13d145a145a9" />
 - Then open the "Replicated items" blade, under "Protected items"
 <img width="1318" height="606" alt="Screenshot 2026-03-09 183205" src="https://github.com/user-attachments/assets/d69c24e5-a663-4820-9efb-23b3bbebc563" />
+- Open replicated item to check status
+<img width="1325" height="592" alt="Screenshot 2026-03-09 184901" src="https://github.com/user-attachments/assets/f5024de9-16b9-45b4-b5d9-a20b74b5ca0f" />
 
 
 
