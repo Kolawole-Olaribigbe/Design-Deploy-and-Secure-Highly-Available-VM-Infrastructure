@@ -150,7 +150,12 @@ Step 7: Set up Azure Site Recovery for failover
 - Configure Disaster Recovery(Review + Start replication)
 <img width="1325" height="507" alt="Screenshot 2026-03-06 211459" src="https://github.com/user-attachments/assets/e638deae-1157-4408-adc9-c861b0241d15" />
 <img width="1322" height="557" alt="Screenshot 2026-03-06 211534" src="https://github.com/user-attachments/assets/a58a951f-bbc0-4d75-a49a-ca0b9eb98d93" />
-
+- Open the newly deployed Resource Group for Site Recovery
+<img width="1322" height="608" alt="Screenshot 2026-03-09 182617" src="https://github.com/user-attachments/assets/a9243d3b-e2e1-42cc-b6d4-1617f56864af" />
+- Click the site recovery vault for new region
+<img width="1317" height="613" alt="Screenshot 2026-03-09 183406" src="https://github.com/user-attachments/assets/5b93aff1-28fb-4c7c-a07d-13d145a145a9" />
+- Then open the "Replicated items" blade, under "Protected items"
+<img width="1318" height="606" alt="Screenshot 2026-03-09 183205" src="https://github.com/user-attachments/assets/d69c24e5-a663-4820-9efb-23b3bbebc563" />
 
 
 
