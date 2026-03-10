@@ -158,6 +158,17 @@ Step 7: Set up Azure Site Recovery for failover
 <img width="1318" height="606" alt="Screenshot 2026-03-09 183205" src="https://github.com/user-attachments/assets/d69c24e5-a663-4820-9efb-23b3bbebc563" />
 - Open replicated item to check status
 <img width="1325" height="592" alt="Screenshot 2026-03-09 184901" src="https://github.com/user-attachments/assets/f5024de9-16b9-45b4-b5d9-a20b74b5ca0f" />
+- Test Failover
+<img width="1320" height="574" alt="Screenshot 2026-03-10 011501" src="https://github.com/user-attachments/assets/bde1e940-ead6-4966-8ebf-9cc43027d70f" />
+<img width="1325" height="525" alt="Screenshot 2026-03-10 011647" src="https://github.com/user-attachments/assets/f6e95e15-b052-47f5-ad83-5935359549fb" />
+- Go to Resource Group of target region to check if Virtual Machine was replicated successfully
+<img width="1318" height="582" alt="Screenshot 2026-03-10 012449" src="https://github.com/user-attachments/assets/f1ae447b-5f71-4a7d-8a52-461afaadc34c" />
+<img width="1313" height="592" alt="Screenshot 2026-03-10 012541" src="https://github.com/user-attachments/assets/978e65ff-830b-44f6-8782-3619ed8b16b6" />
+- Go back to "Replicated items" blade to cleanup test failover
+<img width="1325" height="559" alt="Screenshot 2026-03-10 012959" src="https://github.com/user-attachments/assets/5e77c9ae-2093-4232-adc6-07164b9fdd86" />
+- Test failover successful
+<img width="1327" height="594" alt="Screenshot 2026-03-10 013208" src="https://github.com/user-attachments/assets/69e7285c-e14d-4d04-aa5f-823f16744699" />
+
 
 
 
